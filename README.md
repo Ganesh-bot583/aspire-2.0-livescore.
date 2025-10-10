@@ -1,125 +1,25 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Aspire Cup 2.0 - U15 Boys Football Tournament</title>
+    <title>Aspire Cup 2.0 Live Score</title>
     <style>
         body {
             font-family: Arial, sans-serif;
+            text-align: center;
             margin: 20px;
-            background-color: #f9f9f9;
-            color: #333;
         }
-        h1, h2 {
-            text-align: center;
-            color: #2c3e50;
-        }
-        table {
-            width: 80%;
-            margin: 20px auto;
-            border-collapse: collapse;
-            background: #fff;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-        }
-        th, td {
-            border: 1px solid #ccc;
-            padding: 10px;
-            text-align: center;
-        }
-        th {
-            background-color: #2c3e50;
-            color: #fff;
-        }
-        tr:nth-child(even) {
-            background-color: #f2f2f2;
-        }
-        .section-title {
-            margin-top: 40px;
-            text-align: center;
-            font-size: 1.5em;
-            color: #34495e;
+        iframe {
+            width: 100%;
+            max-width: 900px;
+            height: 600px;
+            border: none;
         }
     </style>
 </head>
 <body>
-    <h1>Aspire Cup 2.0</h1>
-    <h2>U15 Boys Inter Unit Football Tournament - Scoreboard</h2>
-
-    <div class="section-title">Match Details</div>
-    <table>
-        <tr>
-            <th>Match No</th>
-            <th>Date</th>
-            <th>Time</th>
-            <th>Venue</th>
-        </tr>
-        <tr>
-            <td>1</td>
-            <td>12-10-2025</td>
-            <td>2:00 PM</td>
-            <td>Central Playground</td>
-        </tr>
-    </table>
-
-    <div class="section-title">Team Scores</div>
-    <table>
-        <tr>
-            <th>Team A</th>
-            <th>Score</th>
-            <th>Team B</th>
-            <th>Score</th>
-        </tr>
-        <tr>
-            <td>Jamadoba</td>
-            <td>2</td>
-            <td>Joda</td>
-            <td>3</td>
-        </tr>
-    </table>
-
-    <div class="section-title">Team A Players</div>
-    <table>
-        <tr>
-            <th>Jersey No</th>
-            <th>Player Name</th>
-            <th>Goals</th>
-        </tr>
-        <tr>
-            <td>[No]</td>
-            <td>[Player Name]</td>
-            <td>[Goals]</td>
-        </tr>
-    </table>
-
-    <div class="section-title">Team B Players</div>
-    <table>
-        <tr>
-            <th>Jersey No</th>
-            <th>Player Name</th>
-            <th>Goals</th>
-        </tr>
-        <tr>
-            <td>[No]</td>
-            <td>[Player Name]</td>
-            <td>[Goals]</td>
-        </tr>
-    </table>
-
-    <div class="section-title">Cautions</div>
-    <table>
-        <tr>
-            <th>Team</th>
-            <th>Card Color</th>
-            <th>Jersey No</th>
-            <th>Time</th>
-        </tr>
-        <tr>
-            <td>[Team Name]</td>
-            <td>[Red/Yellow/Green]</td>
-            <td>[Jersey No]</td>
-            <td>[Time]</td>
-        </tr>
-    </table>
+    <h1>Aspire Cup 2.0 - Live Score</h1>
+    <iframe 
+        src="https://tsrdsjsr-my.sharepoint.com/personal/ganesh_barik_partners_tatasteelfoundation_org/_layouts/15/Doc.aspx?sourcedoc={0a25565ea8f8b2}&action=embedview&wdAllowInteractivity=False&wdHideGridlines=True&wdHideHeaders=True&wdDownloadButton=True&range=A1:F108
+    </iframe>
 </body>
 </html>
