@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Aspire Cup 2.0 Live Score</title>
+    <title>Aspire Cup 2.0 Live Score U15 Boys Football Tournament Joda 2025</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -17,5 +17,5 @@
     </style>
 </head>
 <body>
-    <h1>Aspire Cup 2.0 - Live Score</h1>
+    <h1>Aspire Cup 2.0 Live Score U15 Boys Football Tournament Joda 2025</h1>
    
